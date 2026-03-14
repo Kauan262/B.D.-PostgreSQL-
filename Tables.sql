@@ -57,7 +57,7 @@ cidade			VARCHAR(45),
 CONSTRAINT pk_tb_empregados_rh PRIMARY KEY(rg)
 );
 
---Criando a "tb_telefone"
+--Criando a "tb_telefones"
 --Restrições:
 --				PK composta aplicada as colunas "rg" e "nr_telefone"
 --				Fk aplicada a coluna "rg"
